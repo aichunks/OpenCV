@@ -26,13 +26,14 @@ This example program shows how to find frontal human faces in an image and estim
 ## Prerequisites
 
 PYTHON
-SKLEARN
-PANDAS
+OPEN CV
+IMUTILS
 NUMPY
-matplotlib
+DLIB
 ```
-pip install scikit-learn
-PIP INSTALL PANDAS
+pip install opencv-python
+PIP INSTALL dlib
+pip install imutils
 PIP INSTALL NUMPY
 ```
 
