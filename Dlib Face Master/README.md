@@ -10,7 +10,7 @@ The face detector we use is made using the classic Histogram of OrientedGradient
 </div>
 
 <p align="center">
-  <img src="Examples/linearsvm.gif">
+  <img src="Examples/landmarks.png">
 </p>
 
 ## Getting Started 
