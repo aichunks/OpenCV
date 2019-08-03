@@ -3,7 +3,6 @@
 Face Detection using Haar Cascades
 ***************************************
 
-::
 
     install opencv:
     pip instal opencv-python
@@ -65,8 +64,9 @@ Now we find the faces in the image. If faces are found, it returns the positions
 
 Result looks like below:
 
-    .. image:: childface.jpg
-        :alt: Face Detection
-        :align: center
+
+<p align="center">
+  <img src="childface.jpg">
+</p>
 
 
